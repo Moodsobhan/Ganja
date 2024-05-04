@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = {
   config: {
     name: "owner",
-    aliases: ["info","🌹𝗭𝗲𝘂𝘀 𝘇𝗲𝗻𝗼🌹"],
+    aliases: ["info","🌹sobhan🌹"],
     author: " pharouk ", 
     version: "2.0",
     cooldowns: 5,
@@ -27,11 +27,11 @@ module.exports = {
         await api.sendMessage(loadingMessage, event.threadID);
 
         const ownerInfo = {
-          name: '🌹𝗭𝗲𝘂𝘀🌹 oumar El 🌹𝗭𝗲𝗻𝗼🌹',
+          name: '🌹 sobhan 🌹 prime 🌹prime🌹',
           gender: 'Boy',
           hobby: '𝙋𝙇𝘼𝙔 🏀𝘽𝘼𝙎𝙆𝙀𝙏𝘽𝘼𝙇𝙇🏀 with my best friends🇺🇸 ',
           relationship: '𝙈𝘼𝙍𝙍𝙄𝙀𝘿 with 𝙈𝙔 𝘽𝘼𝘽𝙔 𝗕𝗼𝘁 i love this bot 🥺',
-          facebookLink: 'https://www.facebook.com/profile.php?id=61553436962117 ',
+          facebookLink: 'https://www.facebook.com/moodsobhan ',
           bio: '𝙋𝙇𝘼𝙔 𝘽𝘼𝙎𝙆𝙀𝙏𝘽𝘼𝙇𝙇 is 𝙈𝙔 𝘿𝙍𝙀𝘼𝙈 🔖'
         };
 
