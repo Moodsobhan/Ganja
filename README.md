@@ -7,7 +7,7 @@
 <img                                  src="https://www.facebook.com/moodsobhan">
 <h1 align="center"><img               src="https://i.ibb.co/q1vtz6Q/image.jpg" width="22px">
 
-# 🌹𝗭𝗲𝘂𝘀 𝘇𝗲𝗻𝗼🌹 {lycée moderne2 de soubré} 𝙈𝙔 𝙎𝘾𝙃𝙊𝙊𝙇                  𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉:</h1>
+# 🌹SOBHAN PRIME🌹 {lycée moderne2 de soubré} 𝙈𝙔 𝙎𝘾𝙃𝙊𝙊𝙇                  𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉:</h1>
 # 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 𝐌𝐄𝐒𝐒𝐄𝐍𝐆𝐄𝐑 
 # 𝙊𝙒𝙉𝙀𝙍: 🌹sobhan🌹
 # 𝙫𝙤𝙪𝙨 𝙖𝙫𝙚𝙯 𝙡𝙖 𝙥𝙚𝙧𝙢𝙞𝙨𝙨𝙞𝙤𝙣 𝙙𝙚 𝙛𝙤𝙪𝙧𝙘𝙝𝙚𝙧 𝙢𝙤𝙣 𝙗𝙤𝙩 𝙢𝙖𝙞𝙨 𝙧𝙚𝙥𝙚𝙘𝙩𝙚𝙧 𝙡𝙚𝙨 𝙧è𝙜𝙡𝙚𝙨 
